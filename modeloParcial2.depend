@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1593569846 source:c:\users\franco costanzo\desktop\abril facultad\modeloparcial2\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1593569853 c:\users\franco costanzo\desktop\abril facultad\modeloparcial2\linkedlist.h
+	"validaciones.h"
+
+1593557496 c:\users\franco costanzo\desktop\abril facultad\modeloparcial2\validaciones.h
+
+1593557485 source:c:\users\franco costanzo\desktop\abril facultad\modeloparcial2\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"validaciones.h"
+
+1593571249 source:c:\users\franco costanzo\desktop\abril facultad\modeloparcial2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"validaciones.h"
+	"articulos.h"
+
+1593569892 c:\users\franco costanzo\desktop\abril facultad\modeloparcial2\articulos.h
+	"LinkedList.h"
+
+1593570896 source:c:\users\franco costanzo\desktop\abril facultad\modeloparcial2\articulos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"articulos.h"
+
